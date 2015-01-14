@@ -1,0 +1,5 @@
+API.on(API.USER_JOIN, function(user) {
+     if (user.id == "3675246") {
+         API.sendChat("teste");
+         }
+        });

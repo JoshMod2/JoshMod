@@ -1,5 +1,13 @@
 API.on(API.USER_JOIN, function(user) {
-     if (user.id == "3675246") {
-         API.sendChat("teste");
+     if (user.id == "3482810") {
+         API.sendChat("/me Escondam seus baseados,  @iMat- entrou na sala :smikong:");
+         }
+     
+     if (user.id == "5028752") {
+         API.sendChat("/me :relaxed: :heart: A princesa @Ísa entrou na sala :heart: :relaxed:");
+         }
+     
+     if (user.id == "3573759") {
+         API.sendChat("/me Acabou a festa! @JoshMod entrou na sala! :P");
          }
         });
